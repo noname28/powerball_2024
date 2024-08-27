@@ -1,1 +1,2 @@
-This project copied orginally from https://github.com/oktaydbk54 github profile. After that modified the new web style powerball web site.
+This project copied orginally from https://github.com/oktaydbk54 github profile.
+The code has been changed for the current website.
